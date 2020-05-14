@@ -40,10 +40,11 @@ Return true /false to indicate how the server works
 
 #### Tests
 
-- How do you run tests?
-- Any tests of note?
-- Describe any tests that you did not complete, skipped, etc
+* Unit Tests: `npm test`
+* Lint Tests: `npm run lint`
+
+<!-- Incomplete Tests: -->
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![UML Diagram](whiteboard.jpg)
