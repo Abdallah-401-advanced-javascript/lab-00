@@ -14,7 +14,7 @@
 * [front-end application](https://abdallah-lab-00.herokuapp.com/) 
 
 ### Documentation
-* [jsdoc] (https://abdallah-lab-00.herokuapp.com/docs/)
+* [jsdoc](https://abdallah-lab-00.herokuapp.com/docs/)
 
 ### Modules
 #### `pos.js`
