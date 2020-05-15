@@ -8,7 +8,7 @@
 ### Links and Resources
 
 * [submission PR](https://github.com/Abdallah-401-advanced-javascript/lab-00/pull/1)
-* [travis] (https://travis-ci.com/github/Abdallah-401-advanced-javascript/lab-00)
+* [travis](https://travis-ci.com/github/Abdallah-401-advanced-javascript/lab-00)
 <!-- - [ci/cd](http://xyz.com) (GitHub Actions) -->
 <!-- - [back-end server url](http://xyz.com) (when applicable) -->
 * [front-end application](https://abdallah-lab-00.herokuapp.com/) 
